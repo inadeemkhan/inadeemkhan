@@ -13,6 +13,10 @@ My Skills: PHP, Magento 2.x, Shopify, WordPress, Amazon AWS, MySQL, JavaScript, 
 <br><br>
 <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png" width="60" height="60" />  <img src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" width="60" height="60" />
 
+<h2>📫 How to reach me </h2>
+
+<a href="https://www.linkedin.com/in/nadeem-khan-b1ba18214/"><img src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" width="60" height="60" /></a>  <a href="https://www.instagram.com/inadeem_kassar/"><img src="https://37degreescelsius.net/wp-content/uploads/2019/01/instagram-512.png" width="60" height="60" /></a>  <a href="+919717599422"><img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="60" height="60" /></a>  <a href="mail:khannadeem243@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="60" height="60" /></a>
+
 <!---
 inadeemkhan/inadeemkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
