@@ -1,8 +1,7 @@
 <h2>👋 Hi I am Nadeem Khan</h2>
-I have 4+ years of experience in Magento Migration, Custom Development, Extensions & Themes Development. 
-having expertise working with many clients to build their eCommerce websites using Magento 2.x.
+I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
 
-My Skills: PHP, Magento 2.x, Shopify, WordPress, Amazon AWS, MySQL, JavaScript, BootStrap, HTML, HTML5, CSS, CSS3, jQuery, Git, Github,& REST APIs.
+I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
 
 <h2>👀 Technical Skills</h2> 
 
