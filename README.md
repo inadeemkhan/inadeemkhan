@@ -19,6 +19,13 @@ I am experienced in web development and web designing with open source technolog
 
 <hr>
 
+### How to reach me 
+
+<a href="https://www.linkedin.com/in/nadeem-khan-b1ba18214/"><img src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" width="60" height="60" /></a>  <a href="https://www.instagram.com/inadeem_kassar/"><img src="https://37degreescelsius.net/wp-content/uploads/2019/01/instagram-512.png" width="60" height="60" /></a>  <a href="+919717599422"><img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="60" height="60" /></a>    <a href="mail:khannadeem243@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="60" height="60" />  <a href="mail:khannadeem243@gmail.com"><img src="https://icons-for-free.com/iconfiles/png/512/colored+gradient+media+skype+social+social+media+icon-1320192521776945077.png" width="60" height="60" /></a>
+
+<hr>
+
+
 ### Languages and Tools 
 
 
@@ -33,12 +40,6 @@ I am experienced in web development and web designing with open source technolog
 - <b>My expertise in Magento2:</b> - All Magento Integration & Migration, Store Development, Multi-Store Development, Payment Gateway Integration, 1.x Upgrade to 2.x, Security Patch Installation, Theme Development, Customization Service, Shipping API Integration, Third-Party Integration, Speed Optimization, Extension (Module) Development, Troubleshooting and Bug Fixing, One Step Checkout, Store Maintenance Service
 
 - <b>Other Technical Skills:</b> SQL, Apache, Docker, OOP(Object-oriented Programming), API Call, Git, GitHub, BitBucket, Photoshop, Canva
-
-<hr>
-
-### How to reach me 
-
-<a href="https://www.linkedin.com/in/nadeem-khan-b1ba18214/"><img src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" width="60" height="60" /></a>  <a href="https://www.instagram.com/inadeem_kassar/"><img src="https://37degreescelsius.net/wp-content/uploads/2019/01/instagram-512.png" width="60" height="60" /></a>  <a href="+919717599422"><img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="60" height="60" /></a>    <a href="mail:khannadeem243@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="60" height="60" />  <a href="mail:khannadeem243@gmail.com"><img src="https://icons-for-free.com/iconfiles/png/512/colored+gradient+media+skype+social+social+media+icon-1320192521776945077.png" width="60" height="60" /></a>
 
 <hr>
 
