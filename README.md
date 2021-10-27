@@ -43,7 +43,7 @@ I am experienced in web development and web designing with open source technolog
 
 <hr>
   
-### Projects
+<!-- ### Projects
 📈Linear Regression
 📊 Califonia_suicide_project
 Intro_GitHub_API_Data_Extraction
@@ -56,7 +56,7 @@ Multi-Classification - KNN/RandomForest/DecsisionTree
 ➡️ more projects...
 
 <hr>
-
+ -->
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats) -->
   
