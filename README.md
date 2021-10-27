@@ -12,9 +12,9 @@ I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer 
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
 
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/inadeemkhan)
-[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/instagram.ico" />](https://melaniesoek0120.medium.com)
-[<img align="left" alt="1000hires" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP0Z38vQhG9GyHlm3A1oSVGIPuTVJYd0bZqFLu_fUXHHAz74qbgpqetiR6rbouG6OsAw&usqp=CAU" />](https://1000hires.com/candidates/466)
-[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/gmail.ico" />](https://1000hires.com/candidates/466)
+[<img align="left" alt="Medium" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVU9UVlyTtLJwKZLzg8oTijM2qqqbvILD7mfSrESgesypA3PXhqxqefWre78y8JjvyCA&usqp=CAU" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="1000hires" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjPMXQQVE3e52WCYLP6w7rQ80oB_YmD3EcbVm4C0l-UBw9jiamFtYzr8Qy34SdJm843w&usqp=CAU" />](https://1000hires.com/candidates/466)
+[<img align="left" alt="1000hires" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSLMXfJAfRxiBcN3Dm_yoSFwmOzabGHwqo7LwEheZUAdkSoO7lNsItEjpDo85TnMYrzc&usqp=CAU" />](https://1000hires.com/candidates/466)
 <br />
 
 <h2>👀 Technical Skills</h2> 
