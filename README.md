@@ -19,11 +19,22 @@ I am experienced in web development and web designing with open source technolog
 
 <hr>
 
-### Technical Skills 
+### Languages and Tools 
 
 
 <img src="https://img.pngio.com/circle-ecommerce-magento-programming-round-icon-icon-magento-png-512_512.png" width="60" height="60" />  <img src="https://pbs.twimg.com/profile_images/554530862453104641/xq5KwTA1.png" width="60" height="60" />  <img src="https://www.pngkey.com/png/full/550-5509803_js-logo-javascript-logo-circle-png.png" width="60" height="60" />  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="60" /><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60" />  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="60" height="60" />  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" width="60" height="60" />  <img src="https://static-00.iconduck.com/assets.00/bitbucket-icon-512x512-exmgeb8n.png" width="60" height="60" />
 <img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png" width="60" height="60" />  <img src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" width="60" height="60" />
+
+<hr>
+
+### Languages and Tools 
+- <b>Programming & Data Visualization:</b> Magento2, PHP, JQuery, JavaScript, HTML5, CSS3, LESS,  Google Analytics, Excel
+
+- <b>My expertise in Magento2:</b> - All Magento Integration & Migration, Store Development, Multi-Store Development, Payment Gateway Integration, 1.x Upgrade to 2.x, Security Patch Installation, Theme Development, Customization Service, Shipping API Integration, Third-Party Integration, Speed Optimization, Extension (Module) Development, Troubleshooting and Bug Fixing, One Step Checkout, Store Maintenance Service
+
+- <b>Other Technical Skills:</b> SQL, Apache, Docker, OOP(Object-oriented Programming), API Call, Git, GitHub, BitBucket, Photoshop, Canva
+
+
 
 <hr>
 
