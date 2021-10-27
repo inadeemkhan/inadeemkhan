@@ -42,11 +42,6 @@ I am experienced in web development and web designing with open source technolog
 - <b>Other Technical Skills:</b> SQL, Apache, Docker, OOP(Object-oriented Programming), API Call, Git, GitHub, BitBucket, Photoshop, Canva
 
 <hr>
-
-[![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats) -->
-
-<hr>
   
 ### Projects
 📈Linear Regression
@@ -60,6 +55,11 @@ NLP - Amazon Reviews- Model Stacking
 Multi-Classification - KNN/RandomForest/DecsisionTree
 ➡️ more projects...
 
+<hr>
+
+[![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)  
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats) -->
+  
 <!---
 inadeemkhan/inadeemkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
