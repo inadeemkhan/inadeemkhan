@@ -21,14 +21,18 @@ I am experienced in web development and web designing with open source technolog
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
+<br/>
+<br/>
 
 <h2>📫 How to reach me </h2>
 
 <a href="https://www.linkedin.com/in/nadeem-khan-b1ba18214/"><img src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" width="60" height="60" /></a>  <a href="https://www.instagram.com/inadeem_kassar/"><img src="https://37degreescelsius.net/wp-content/uploads/2019/01/instagram-512.png" width="60" height="60" /></a>  <a href="+919717599422"><img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="60" height="60" /></a>  <a href="mail:khannadeem243@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="60" height="60" /></a>
 
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=algolia&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&langs_count=8)](https://github.com/inadeemkhan/github-readme-stats)
 
 
 <!---
