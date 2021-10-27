@@ -1,12 +1,12 @@
-## Introduction
-<h2>👋 Hi I am Nadeem Khan</h2><br>
+##👋 Hi I am Nadeem Khan
+
 - 🔭 I’m currently working on [Magento2 Project](https://github.com/inadeemkhan/magento2-invoice-attachment)
 - 🌱 I’m currently learning AWS
 - ⚡ Fluent in English 🇺s
 - 🏋️ Workout everyday!
 - 👨‍💻 Tach Geek and
 - 🕵️‍♂️ I like to turn peoples idea intyo reality
-
+<br><br>
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
 
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
