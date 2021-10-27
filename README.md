@@ -1,21 +1,21 @@
 ## Introduction
+<h2>👋 Hi I am Nadeem Khan</h2>
 - 🔭 I’m currently working on [Magento2 Project](https://github.com/inadeemkhan/magento2-invoice-attachment)
 - 🌱 I’m currently learning AWS
-- ⚡ Fluent in English 🇺
+- ⚡ Fluent in English 🇺s
 - 🏋️ Workout everyday!
 - 👨‍💻 Tach Geek and
 - 🕵️‍♂️ I like to turn peoples idea intyo reality
 
-<h2>👋 Hi I am Nadeem Khan</h2>
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
 
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
 
-[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/inadeemkhan)
+<!-- [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/inadeemkhan)
 [<img align="left" alt="Medium" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVU9UVlyTtLJwKZLzg8oTijM2qqqbvILD7mfSrESgesypA3PXhqxqefWre78y8JjvyCA&usqp=CAU" />](https://melaniesoek0120.medium.com)
 [<img align="left" alt="1000hires" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjPMXQQVE3e52WCYLP6w7rQ80oB_YmD3EcbVm4C0l-UBw9jiamFtYzr8Qy34SdJm843w&usqp=CAU" />](https://1000hires.com/candidates/466)
 [<img align="left" alt="1000hires" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpSLMXfJAfRxiBcN3Dm_yoSFwmOzabGHwqo7LwEheZUAdkSoO7lNsItEjpDo85TnMYrzc&usqp=CAU" />](https://1000hires.com/candidates/466)
-<br />
+<br /> -->
 
 <h2>👀 Technical Skills</h2> 
 
