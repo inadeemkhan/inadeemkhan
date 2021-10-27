@@ -46,6 +46,19 @@ I am experienced in web development and web designing with open source technolog
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats) -->
 
+<hr>
+  
+### Projects
+📈Linear Regression
+📊 Califonia_suicide_project
+Intro_GitHub_API_Data_Extraction
+🧒🏻 👦🏻 👧🏻 PCA - Facial_Recognition
+🧬 DNA Variation Classification
+📉 Beijing PM2.5 Analysis - Time Series Panel Data
+NLP - Amazon Reviews- Model Stacking
+🦠 COVID-19 - LSTM - Time Series Panel Data
+Multi-Classification - KNN/RandomForest/DecsisionTree
+➡️ more projects...
 
 <!---
 inadeemkhan/inadeemkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
