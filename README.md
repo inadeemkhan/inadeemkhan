@@ -30,7 +30,9 @@ I am experienced in web development and web designing with open source technolog
 
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=algolia&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&langs_count=8)](https://github.com/inadeemkhan/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inadeemkhan&repo=github-readme-stats&show_owner)](https://github.com/inadeemkhan/github-readme-stats)
 
 <!---
 inadeemkhan/inadeemkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
