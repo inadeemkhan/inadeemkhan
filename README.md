@@ -1,7 +1,21 @@
+![chacha.png](chacha.png)
+## Introduction
+- 🔭 I’m currently working on [Magento2 Project](https://github.com/inadeemkhan/magento2-invoice-attachment)
+- 🌱 I’m currently learning AWS
+- ⚡ Fluent in English 🇺
+- 🏋️ Workout everyday!
+- 👨‍💻 Tach Geek and
+- 🕵️‍♂️ I like to turn peoples idea intyo reality
+
 <h2>👋 Hi I am Nadeem Khan</h2>
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
 
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
+
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/melanieseok-huashi)
+[<img align="left" alt="Medium" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/medium.ico" />](https://melaniesoek0120.medium.com)
+[<img align="left" alt="1000hires" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/1000hires.ico" />](https://1000hires.com/candidates/466)
+<br />
 
 <h2>👀 Technical Skills</h2> 
 
