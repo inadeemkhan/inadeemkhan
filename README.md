@@ -5,7 +5,7 @@
 - ⚡ Fluent in English
 - 🏋️ Workout everyday!
 - 👨‍💻 Tach Geek and
-- 🕵️‍♂️ I like to turn peoples idea intyo reality
+- 🕵️‍♂️ I like to turn peoples idea into reality
 <br><br>
 
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
