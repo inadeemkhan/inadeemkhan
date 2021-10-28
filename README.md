@@ -19,14 +19,14 @@ I am experienced in web development and web designing with open source technolog
 
 <hr>
 
-### How to reach me 
+### How to reach me 💬
 
 <a href="https://www.linkedin.com/in/nadeem-khan-b1ba18214/"><img src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" width="60" height="60" /></a>  <a href="https://www.instagram.com/inadeem_kassar/"><img src="https://37degreescelsius.net/wp-content/uploads/2019/01/instagram-512.png" width="60" height="60" /></a>  <a href="+919717599422"><img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="60" height="60" /></a>    <a href="mail:khannadeem243@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="60" height="60" />  <a href="mail:khannadeem243@gmail.com"><img src="https://icons-for-free.com/iconfiles/png/512/colored+gradient+media+skype+social+social+media+icon-1320192521776945077.png" width="60" height="60" /></a>
 
 <hr>
 
 
-### Languages and Tools 
+### Languages and Tools 👨‍💻
 
 
 <img src="https://img.pngio.com/circle-ecommerce-magento-programming-round-icon-icon-magento-png-512_512.png" width="60" height="60" />  <img src="https://pbs.twimg.com/profile_images/554530862453104641/xq5KwTA1.png" width="60" height="60" />  <img src="https://www.pngkey.com/png/full/550-5509803_js-logo-javascript-logo-circle-png.png" width="60" height="60" />  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="60" /><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60" />  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="60" height="60" />  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" width="60" height="60" />  <img src="https://static-00.iconduck.com/assets.00/bitbucket-icon-512x512-exmgeb8n.png" width="60" height="60" />
