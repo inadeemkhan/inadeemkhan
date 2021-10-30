@@ -22,19 +22,18 @@ I am experienced in web development and web designing with open source technolog
 
 ### How to reach me 💬
 
-[<img src="https://cdn.iconscout.com/icon/free/png-512/linkedin-circle-1868976-1583140.png" target="_blank" width="60" height="60" />](https://www.linkedin.com/in/inadeemkhan)
-<a href="mailto:khannadeem243@gmail.com"><img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-for-gmail-email-client-mac-app-store-16.png" width="60" height="60" /></a>
-[<img src="https://37degreescelsius.net/wp-content/uploads/2019/01/instagram-512.png" target="_blank" width="60" height="60" />](https://www.instagram.com/inadeem_kassar)
-<a href="tel:9717599422"><img src="https://cdn2.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-whatsapp-circle-512.png" width="60" height="60" /></a>
-<a href="mail:khannadeem243@gmail.com"><img src="https://icons-for-free.com/iconfiles/png/512/colored+gradient+media+skype+social+social+media+icon-1320192521776945077.png" width="60" height="60" /></a>
+[<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/linkedin-logo.png" target="_blank" width="60" height="60" />](https://www.linkedin.com/in/inadeemkhan)
+<a href="mailto:khannadeem243@gmail.com"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/gmail-logo.png" width="60" height="60" /></a>
+[<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/instagram-logo.png" target="_blank" width="60" height="60" />](https://www.instagram.com/inadeem_kassar)
+<a href="tel:9717599422"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/whatsapp-logo.png" width="60" height="60" /></a>
+<a href="live:khannadeem243"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/skype-logo.png" width="60" height="60" /></a>
 
 <hr>
 
 
 ### Languages and Tools 👨‍💻
  
-<img src="https://i.ibb.co/k1n91Z3/big-logo-magento2.png" alt="big-logo-magento2" width="60" height="60" />  <img src="https://pbs.twimg.com/profile_images/554530862453104641/xq5KwTA1.png" width="60" height="60" />  <img src="https://www.pngkey.com/png/full/550-5509803_js-logo-javascript-logo-circle-png.png" width="60" height="60" />  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="60" height="60" /><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png" width="60" height="60" />  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="60" height="60" />  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png" width="60" height="60" />  <img src="https://static-00.iconduck.com/assets.00/bitbucket-icon-512x512-exmgeb8n.png" width="60" height="60" />
-<img src="https://i.pinimg.com/originals/31/02/38/31023806400284920008d8ebd24a2218.png" width="60" height="60" />  <img src="https://techcrunch.com/wp-content/uploads/2013/08/canva-circle-logo.png?w=730&crop=1" width="60" height="60" />
+<img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/magento-logo.png" alt="big-logo-magento2" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/php-logo.png" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/javascript-logo.png" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/mysql-logo.png" width="60" height="60" /><img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/html-logo.webp" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/css-logo.webp" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/github-logo.png" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/bitbucketlogo.png" width="60" height="60" /> <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/canva-logo.png" width="60" height="60" /> <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/magento-logo.png" width="60" height="60" />
 
 <hr>
 
