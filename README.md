@@ -11,7 +11,6 @@
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
 
-[<p>LinkedIN</p>]( http://www.linkedin.com/in/inadeemkhan)
 
 <!-- [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />]( http://www.linkedin.com/in/inadeemkhan)
 [<img align="left" alt="Medium" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVU9UVlyTtLJwKZLzg8oTijM2qqqbvILD7mfSrESgesypA3PXhqxqefWre78y8JjvyCA&usqp=CAU" />](https://melaniesoek0120.medium.com)
