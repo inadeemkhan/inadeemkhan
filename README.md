@@ -39,13 +39,13 @@ I am experienced in web development and web designing with open source technolog
 
 <hr>
   
-<!-- ### Projects
+### Projects
 📈 [<p>Manicaa South Africa</p>](https://manicaa.com/)
 📈 [<p>Online Trade Mart</p>](https://onlinetrademart.com/)
 ➡️ more projects...
 
 <hr>
- -->
+
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats) -->
   
