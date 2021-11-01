@@ -40,15 +40,8 @@ I am experienced in web development and web designing with open source technolog
 <hr>
   
 <!-- ### Projects
-📈Linear Regression
-📊 Califonia_suicide_project
-Intro_GitHub_API_Data_Extraction
-🧒🏻 👦🏻 👧🏻 PCA - Facial_Recognition
-🧬 DNA Variation Classification
-📉 Beijing PM2.5 Analysis - Time Series Panel Data
-NLP - Amazon Reviews- Model Stacking
-🦠 COVID-19 - LSTM - Time Series Panel Data
-Multi-Classification - KNN/RandomForest/DecsisionTree
+📈 [<p>Manicaa South Africa</p>](https://manicaa.com/)
+📈 [<p>Online Trade Mart</p>](https://onlinetrademart.com/)
 ➡️ more projects...
 
 <hr>
