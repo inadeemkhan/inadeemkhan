@@ -40,7 +40,7 @@ I am experienced in web development and web designing with open source technolog
 <hr>
   
 ### Projects
-[📈  Manicaa South Africa](https://manicaa.com/)
+[📈  Manicaa South Africa](https://manicaa.com/) <br/>
 [📈 Online Trade Mart](https://onlinetrademart.com/)
 ➡️ more projects...
 
