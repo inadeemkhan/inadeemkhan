@@ -19,7 +19,7 @@ I am experienced in web development and web designing with open source technolog
 <a href="mailto:khannadeem243@gmail.com"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/gmail-logo.png" width="60" height="60" /></a>
 [<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/instagram-logo.png" target="_blank" width="60" height="60" />](https://www.instagram.com/inadeem_kassar)
 <a href="tel:9717599422"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/whatsapp-logo.png" width="60" height="60" /></a>
-<a href="live:khannadeem243"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/skype-logo.png" width="60" height="60" /></a>
+<a href="skype:khannadeem243?chat"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/skype-logo.png" width="60" height="60" /></a>
 
 <hr>
 
