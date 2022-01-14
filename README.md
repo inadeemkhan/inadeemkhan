@@ -40,19 +40,20 @@ I am experienced in web development and web designing with open source technolog
 <hr>
   
 ### Projects
-[📈  Mobile Gadget Hub](https://mobilegadgethub.com/) <br/>
-[📈  Darwin The Evolution of eCommerce ](https://darwin.co/) <br/>
-[📈  EyeQue](https://www.eyeque.com/) <br/>
-[📈  AED](https://aed.us/) <br/>
-[📈  The Bumbag ](https://thebumbag.com/) <br/>
-[📈  Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
-[📈  Manicaa South Africa](https://manicaa.com/) <br/>
-[📈 Online Trade Mart](https://onlinetrademart.com/) <br/>
+[💻  Mobile Gadget Hub](https://mobilegadgethub.com/) <br/>
+[💻  Darwin The Evolution of eCommerce ](https://darwin.co/) <br/>
+[💻  EyeQue](https://www.eyeque.com/) <br/>
+[💻  AED](https://aed.us/) <br/>
+[💻  The Bumbag ](https://thebumbag.com/) <br/>
+[💻  Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
+[💻  Manicaa South Africa](https://manicaa.com/) <br/>
+[💻 Online Trade Mart](https://onlinetrademart.com/) <br/>
 [➡️ Check more here ...](https://www.linkedin.com/in/inadeemkhan/) <br/>
 
 <hr>
 
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)  
+<!-- [![Nadeem's github stats](https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats) -->
   
 <!---
