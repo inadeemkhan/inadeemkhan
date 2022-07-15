@@ -9,12 +9,14 @@
 - 🕵️‍♂️ I like to turn peoples idea into reality
 <br><br>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3aa590eb-c8f5-4896-ba13-dc93c647963e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
 
 <hr>
+
+### Certification 💬
+
+[<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" target="_blank" width="90" height="90" />]([https://www.linkedin.com/in/inadeemkhan](https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url))
 
 ### How to reach me 💬
 
