@@ -2,7 +2,7 @@
 
 - 👨‍💻 Magento2 Certified Developer
 - 🔭 I’m currently working on [Magento2 Project](https://github.com/inadeemkhan/magento2-invoice-attachment)
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning <b>Shopify</b>
 - ⚡ Fluent in English
 - 🏋️ Workout everyday!
 - 👨‍💻 Tach Geek and
