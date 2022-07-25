@@ -15,9 +15,9 @@ I am experienced in web development and web designing with open source technolog
 <hr>
 
 ### Certification 📜
-<b>Adobe Certified Professional—Adobe Commerce Developer</b><br/>
+<!-- <b>Adobe Certified Professional—Adobe Commerce Developer</b><br/>
 Provider: <b>Adobe</b><br/>
-Issued: <b>December 2021 - Expires: December 2023</b><br/><br/>
+Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 [<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" target="_blank" width="90" height="90" />]([https://www.linkedin.com/in/inadeemkhan](https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url))
 
 <hr>
@@ -53,12 +53,10 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/>
 [💻  AED](https://aed.us/) <br/>
 [💻  AED CoroMed](https://coromed.com/) <br/>
 [💻  EyeQue](https://www.eyeque.com/) <br/>
-[💻  Mobile Gadget Hub](https://mobilegadgethub.com/) <br/>
 [💻  Darwin The Evolution of eCommerce ](https://darwin.co/) <br/>
 [💻  Medvine](https://www.medvine.com/) <br/>
 [💻  The Bumbag ](https://thebumbag.com/) <br/>
 [💻  Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
-[💻  Manicaa South Africa](https://manicaa.com/) <br/>
 [➡️ Check more here ...](https://www.linkedin.com/in/inadeemkhan/) <br/>
 
 <hr>
