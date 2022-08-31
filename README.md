@@ -14,6 +14,10 @@ I am experienced in web development and web designing with open source technolog
 
 <hr>
 
+[![stats](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)
+
+<hr>
+
 ### Certification 📜
 <!-- <b>Adobe Certified Professional—Adobe Commerce Developer</b><br/>
 Provider: <b>Adobe</b><br/>
@@ -66,7 +70,7 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 [![Nadeem's github stats](https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats)
 
-[![Top Langs](https://metrics.lecoq.io/inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
+[![stats](https://metrics.lecoq.io/inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
 
   
 <!---
