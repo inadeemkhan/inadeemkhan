@@ -9,10 +9,8 @@
 - 🕵️‍♂️ I like to turn peoples idea into reality
 <br><br>
 
-I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience (3+ years of corporate experience in technical profile & 1+ years in freelancing in web development and non-tech profile).
+I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience.
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
-
-<hr>
 
 [![stats](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)
 
@@ -70,7 +68,7 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 [![Nadeem's github stats](https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats)
 
-[![stats](https://metrics.lecoq.io/inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
+<!--- [![stats](https://metrics.lecoq.io/inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats) --->
 
   
 <!---
