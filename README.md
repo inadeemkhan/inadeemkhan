@@ -12,7 +12,7 @@
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience.
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
 
-<b>Follow Me On </b>[<b><a href="https://www.linkedin.com/in/inadeemkhan" target="_blank">LinkedIn</a></b>]
+<b>Follow Me On </b><a href="https://www.linkedin.com/in/inadeemkhan" target="_blank">LinkedIn</a>
 
 [![stats](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)
 
