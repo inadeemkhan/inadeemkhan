@@ -55,13 +55,13 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
   
 ### Projects
 [💻 Online Trade Mart](https://otramart.com/) <br/>
-[💻  AED](https://aed.us/) <br/>
-[💻  AED CoroMed](https://coromed.com/) <br/>
-[💻  EyeQue](https://www.eyeque.com/) <br/>
-[💻  Darwin The Evolution of eCommerce ](https://darwin.co/) <br/>
-[💻  Medvine](https://www.medvine.com/) <br/>
-[💻  The Bumbag ](https://thebumbag.com/) <br/>
-[💻  Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
+[💻 AED](https://aed.us/) <br/>
+[💻 AED CoroMed](https://coromed.com/) <br/>
+[💻 EyeQue](https://www.eyeque.com/) <br/>
+[💻 Darwin The Evolution of eCommerce ](https://darwin.co/) <br/>
+[💻 Medvine](https://www.medvine.com/) <br/>
+[💻 The Bumbag ](https://thebumbag.com/) <br/>
+[💻 Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
 [➡️ Check more here ...](https://www.linkedin.com/in/inadeemkhan/) <br/>
 
 <hr>
