@@ -54,7 +54,8 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 <hr>
   
 ### Projects
-[💻 Online Trade Mart](https://otramart.com/) <br/>
+[💻 Otramart](https://otramart.com/) <br/>
+[💻 Otrafood](https://food.otramart.com/) <br/>
 [💻 AED](https://aed.us/) <br/>
 [💻 AED CoroMed](https://coromed.com/) <br/>
 [💻 EyeQue](https://www.eyeque.com/) <br/>
@@ -66,11 +67,11 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 
 <hr>
 
-<!---[![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)--->
+<!---[![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)
 [![Nadeem's github stats](https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats) --->
 
-<!---[![stats](https://metrics.lecoq.io/inadeemkhan)](https://metrics.lecoq.io/inadeemkhan)--->
+[![stats](https://metrics.lecoq.io/inadeemkhan)](https://metrics.lecoq.io/inadeemkhan)
 
   
 <!---
