@@ -69,7 +69,3 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 [![Nadeem's github stats](https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)--->
 <!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats)--->
 <!---[![stats](https://metrics.lecoq.io/inadeemkhan)](https://metrics.lecoq.io/inadeemkhan)--->
-
-  
-<!--- inadeemkhan/inadeemkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. --->
