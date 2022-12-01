@@ -25,7 +25,6 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 [<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" target="_blank" width="90" height="90" />]([https://www.linkedin.com/in/inadeemkhan](https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url))
 
 <hr>
-<!--
 ### How to reach me 💬
 
 [<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/linkedin-logo.png" target="_blank" width="60" height="60" />](https://www.linkedin.com/in/inadeemkhan)
@@ -35,7 +34,6 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 <a href="skype:khannadeem243?chat"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/skype-logo.png" width="60" height="60" /></a>
 
 <hr>
--->
 
 ### Languages and Tools 👨‍💻
  
