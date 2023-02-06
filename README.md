@@ -1,12 +1,12 @@
 <h2>👋 Hi I am Nadeem Khan</h2>
 
-- 👨‍💻 Magento2 Certified Developer
+- 👨‍💻 Magento2 Certified Developer.
 - 🔭 I’m currently working on [Magento2 Project](https://github.com/inadeemkhan/magento2-invoice-attachment)
 - 🌱 I’m currently learning <b>Shopify And PWA Magento</b>
-- ⚡ Fluent in English
+- ⚡ Fluent in English.
 - 🏋️ Workout everyday!
 - 👨‍💻 Tach Geek and
-- 🕵️‍♂️ I like to turn peoples idea into reality
+- 🕵️‍♂️ I like to turn peoples idea into reality.
 
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience.
 I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
