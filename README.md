@@ -54,9 +54,6 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 ### Projects
 [💻 Otramart - find it, love it, buy it](https://otramart.com/) <br/>
 [💻 Otrafood - find it, love it, buy it](https://food.otramart.com/) <br/>
-[💻 AED - Coro Medical Company](https://aed.us/) <br/>
-[💻 AED CoroMed - Coro Medical](https://coromed.com/) <br/>
-[💻 EyeQue - EyeQue Corporation](https://www.eyeque.com/) <br/>
 [💻 Medvine](https://www.medvine.com/) <br/>
 [💻 Darwin The Evolution of eCommerce ](https://darwin.co/) <br/>
 [💻 The Bumbag ](https://thebumbag.com/) <br/>
