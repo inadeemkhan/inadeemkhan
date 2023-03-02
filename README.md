@@ -48,7 +48,6 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 - <b>My expertise in Magento2:</b> - All Magento Integration & Migration, Store Development, Multi-Store Development, Payment Gateway Integration, 1.x Upgrade to 2.x, Security Patch Installation, Theme Development, Customization Service, Shipping API Integration, Third-Party Integration, Speed Optimization, Extension (Module) Development, Troubleshooting and Bug Fixing, One Step Checkout, Store Maintenance Service
 
 - <b>Other Technical Skills:</b> SQL, Apache, Docker, OOP(Object-oriented Programming), API Call, Git, GitHub, BitBucket, Photoshop, Canva
-
 <hr>
   
 ### Projects
@@ -59,10 +58,7 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 [💻 The Bumbag ](https://thebumbag.com/) <br/>
 [💻 Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
 [➡️ Check more here ...](https://www.linkedin.com/in/inadeemkhan/) <br/>
-
 <hr>
-
-
 
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)
 
