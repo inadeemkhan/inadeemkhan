@@ -1,15 +1,15 @@
-<h2>👋 Hi I am Nadeem Khan</h2>
+<h2>👋 Hi I am Nadeem</h2>
 
 - 👨‍💻 Magento2 Certified Developer.
 - 🔭 I’m currently working on [Magento2 Project](https://github.com/inadeemkhan/magento2-invoice-attachment)
 - 🌱 I’m currently learning <b>Python & Machine Learning</b>
 - ⚡ Fluent in English.
-- 🏋️ Workout everyday!
-- 👨‍💻 Tach Geek and
-- 🕵️‍♂️ I like to turn peoples idea into reality.
+- 🏋️ Work out every day!
+- 👨‍💻 Tech Geek and
+- 🕵️‍♂️ I like to turn people's ideas into reality.
 
 I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience.
-I am experienced in web development and web designing with open source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controller (MVC).
+I am experienced in web development and web designing with open-source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controllers (MVC).
 
 <b>Follow Me On </b><a href="https://www.linkedin.com/in/inadeemkhan" target="_blank">LinkedIn</a>
 
@@ -45,7 +45,7 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 ### Technical Skills 💻
 - <b>Programming & Data Visualization:</b> Magento2, PHP, JQuery, JavaScript, HTML5, CSS3, LESS,  Google Analytics, Excel
 
-- <b>My expertise in Magento2:</b> - All Magento Integration & Migration, Store Development, Multi-Store Development, Payment Gateway Integration, 1.x Upgrade to 2.x, Security Patch Installation, Theme Development, Customization Service, Shipping API Integration, Third-Party Integration, Speed Optimization, Extension (Module) Development, Troubleshooting and Bug Fixing, One Step Checkout, Store Maintenance Service
+- <b>My expertise in Magento2:</b> - All Magento Integration & Migration, Store Development, Multi-Store Development, Payment Gateway Integration, 1.x Upgrade to 2.x, Security Patch Installation, Theme Development, Customization Service, Shipping API Integration, Third-Party Integration, Speed Optimization, Extension (Module) Development, Troubleshooting, and Bug Fixing, One Step Checkout, Store Maintenance Service
 
 - <b>Other Technical Skills:</b> SQL, Apache, Docker, OOP(Object-oriented Programming), API Call, Git, GitHub, BitBucket, Photoshop, Canva
 <hr>
