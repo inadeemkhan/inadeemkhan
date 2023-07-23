@@ -49,7 +49,8 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 
 - <b>Other Technical Skills:</b> SQL, Apache, Docker, OOP(Object-oriented Programming), API Call, Git, GitHub, BitBucket, Photoshop, Canva
 <hr>
-  
+
+<!---
 ### Projects
 [💻 Otramart - find it, love it, buy it](https://otramart.com/) <br/>
 [💻 Otrafood](https://food.otramart.com/) <br/>
@@ -59,6 +60,7 @@ Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
 [💻 Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
 [➡️ Check more here ...](https://www.linkedin.com/in/inadeemkhan/) <br/>
 <hr>
+--->
 
 [![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)
 
