@@ -20,7 +20,7 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 | Category | Technologies |
 | :--- | :--- |
-| **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Cloud |
+| **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Commerce Cloud |
 | **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker |
 | **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3 |
 | **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva |
@@ -32,6 +32,7 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" title="Adobe" alt="Adobe" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -55,8 +56,9 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 **Adobe Certified Professional—Adobe Commerce Developer** *Verified expertise in Magento 2 architecture, cloud deployment, and module development.*
 
 <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" width="100" height="100" style="border-radius: 10px;" />
+  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" width="120" title="Click to View Credly Badge" style="border-radius: 10px;" />
 </a>
+<img src="https://www.vectorlogo.zone/logos/adobe/adobe-ar21.svg" width="120" alt="Adobe Logo" />
 
 ---
 
