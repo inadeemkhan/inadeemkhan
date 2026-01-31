@@ -20,7 +20,7 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 <p align="center">
   <img width="48%" src="https://readme-stats-fast.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true" />
-  <img width="48%" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true" />
+  <img width="48%" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
