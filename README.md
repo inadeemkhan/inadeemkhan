@@ -18,17 +18,15 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=visual_studio_code&column=7&margin-w=15&no-bg=true" alt="inadeemkhan trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=visual_studio_code&column=7&margin-w=15&no-bg=true" alt="inadeemkhan trophies" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Skills Breakdown
+### 📊 GitHub Activity & Detailed Stats
 
 <p align="center">
-  <img width="48%" src="https://readme-stats-fast.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true" />
+  <img width="48%" src="https://readme-stats-fast.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="48%" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
 </p>
 
@@ -73,14 +71,14 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 ---
 
 ### 📂 Featured Projects
-- 📦 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)**: A Magento 2 extension to display shipping availability indicators.
-- 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)**: Automatically attach PDF/Image files to transactional emails.
-- 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)**: Visual management of order workflows in the admin panel.
+- 📦 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)**: Display shipping availability indicators.
+- 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)**: Attach files to transactional emails.
+- 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)**: Visual workflow management.
 
 ---
 
 ### 📜 Certification
-**Adobe Certified Professional—Adobe Commerce Developer** *Verified expertise in Magento 2 architecture, cloud deployment, and module development.*
+**Adobe Certified Professional—Adobe Commerce Developer**
 
 <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
   <img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" width="120" title="Click to View Credly Badge" style="border-radius: 10px;" />
