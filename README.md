@@ -16,6 +16,15 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 ---
 
+### 📊 GitHub Activity
+
+<p align="center">
+  <img width="48%" src="https://readme-stats-fast.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true" />
+  <img width="48%" src="https://readme-stats-fast.vercel.app/api/streak?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
@@ -40,14 +49,6 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
 </p>
 
 ---
