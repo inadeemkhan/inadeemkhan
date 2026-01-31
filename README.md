@@ -1,69 +1,101 @@
-<h2>👋 Hi I am Nadeem</h2>
+# <h2>👋 Hi, I'm Nadeem Khan</h2>
 
-- 👨‍💻 Magento2 Certified Developer.
-- 🔭 I’m currently working on [Magento2 Project](https://github.com/inadeemkhan/magento2-invoice-attachment)
-- 🌱 I’m currently learning <b>Python & Machine Learning</b>
-- ⚡ Fluent in English.
-- 🏋️ Work out every day!
-- 👨‍💻 Tech Geek and
-- 🕵️‍♂️ I like to turn people's ideas into reality.
+<p align="left">
+<img src="https://img.shields.io/badge/Adobe%20Certified-Professional-orange?style=for-the-badge&logo=adobe" alt="Adobe Certified" />
+<img src="https://img.shields.io/badge/Magento%202-Expert-blue?style=for-the-badge&logo=magento" alt="Magento 2" />
+<img src="https://img.shields.io/badge/Python-Learning-green?style=for-the-badge&logo=python" alt="Python Learning" />
+</p>
 
-I am a web developer with a Bachelor of Technology (B.Tech.) degree in Computer Science & Engineering from AKTU and have 4+ years of web development experience.
-I am experienced in web development and web designing with open-source technologies using Magento, PHP, jQuery, AJAX, HTML, CSS, and Photoshop. I have working experience with Model View Controllers (MVC).
+### 👨‍💻 About Me
+I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experience in building scalable e-commerce solutions. I specialize in turning complex business ideas into high-performance digital reality.
 
-<b>Follow Me On </b><a href="https://www.linkedin.com/in/inadeemkhan" target="_blank">LinkedIn</a>
+- 🔭 **Currently optimizing:** [Magento 2 Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)
+- 🌱 **Learning:** Python, Machine Learning, and AI-driven E-commerce.
+- ⚡ **Key Strength:** Bridging the gap between robust backend logic and seamless frontend experience.
+- 🏋️ **Philosophy:** Consistent code, consistent workouts.
 
-[![stats](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)](https://komarev.com/ghpvc/?username=inadeemkhan&style=for-the-badge)
+---
 
-<hr>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=visual_studio_code&column=7&margin-w=15&no-bg=true" alt="inadeemkhan trophies" />
+</p>
 
-### Certification 📜
-<!-- <b>Adobe Certified Professional—Adobe Commerce Developer</b><br/>
-Provider: <b>Adobe</b><br/>
-Issued: <b>December 2021 - Expires: December 2023</b><br/><br/> -->
-#### Adobe Certified Professional—Adobe Commerce (Magento2) Developer
-[<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" target="_blank" width="90" height="90" />]([https://www.linkedin.com/in/inadeemkhan](https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url))
+---
 
-<hr>
+### 📊 GitHub Activity & Detailed Stats
 
-### How to reach me 💬
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
+</p>
 
-[<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/linkedin-logo.png" target="_blank" width="60" height="60" />](https://www.linkedin.com/in/inadeemkhan)
-<a href="mailto:khannadeem243@gmail.com"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/gmail-logo.png" width="60" height="60" /></a>
-[<img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/instagram-logo.png" target="_blank" width="60" height="60" />](https://www.instagram.com/_inadeemkhan)
-<!---<a href="tel:9717599422"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/whatsapp-logo.png" width="60" height="60" /></a>--->
-<!---<a href="skype:khannadeem243?chat"><img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/skype-logo.png" width="60" height="60" /></a>--->
+<p align="center">
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
+</p>
 
-<hr>
+---
 
-### Languages and Tools 👨‍💻
- 
-<img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/magento-logo.png" alt="big-logo-magento2" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/php-logo.png" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/javascript-logo.png" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/mysql-logo.png" width="60" height="60" /> <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/HeidiSQL-Logo.png" width="60" height="60" /> <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/html-logo.webp" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/css-logo.webp" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/github-logo.png" width="60" height="60" />  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/bitbucketlogo.png" width="60" height="60" /> <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/canva-logo.png" width="60" height="60" /> <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/photoshop-logo.png" width="60" height="60" />
+### 🛠️ Tech Stack & Specialized Expertise
 
-<hr>
+| Category | Technologies |
+| :--- | :--- |
+| **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Commerce Cloud |
+| **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker, Alpine.js |
+| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3, LESS |
+| **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva, HeidiSQL |
 
-### Technical Skills 💻
-- <b>Programming & Data Visualization:</b> Magento2, PHP, JQuery, JavaScript, HTML5, CSS3, LESS,  Google Analytics, Excel
+#### 🎯 My Magento Expertise:
+- **Migration & Upgrades:** 1.x to 2.x migration, security patch installation, and version upgrades.
+- **Custom Development:** Module development, Payment Gateway integration, and Shipping API integration.
+- **Performance:** Speed optimization, database tuning, and One Step Checkout implementation.
+- **Storefront:** Custom theme development and Multi-store setup.
 
-- <b>My expertise in Magento2:</b> - All Magento Integration & Migration, Store Development, Multi-Store Development, Payment Gateway Integration, 1.x Upgrade to 2.x, Security Patch Installation, Theme Development, Customization Service, Shipping API Integration, Third-Party Integration, Speed Optimization, Extension (Module) Development, Troubleshooting, and Bug Fixing, One Step Checkout, Store Maintenance Service
+---
 
-- <b>Other Technical Skills:</b> SQL, Apache, Docker, OOP(Object-oriented Programming), API Call, Git, GitHub, BitBucket, Photoshop, Canva
-<hr>
+**Languages & Tools I Use:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" title="Adobe" alt="Adobe" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+</p>
 
-<!---
-### Projects
-[💻 Otramart - find it, love it, buy it](https://otramart.com/) <br/>
-[💻 Otrafood](https://food.otramart.com/) <br/>
-[💻 Medvine](https://www.medvine.com/) <br/>
-[💻 Darwin The Evolution of eCommerce ](https://darwin.co/) <br/>
-[💻 The Bumbag ](https://thebumbag.com/) <br/>
-[💻 Water Beds Australia](https://waterbedsaustralia.com.au/) <br/>
-[➡️ Check more here ...](https://www.linkedin.com/in/inadeemkhan/) <br/>
-<hr>
---->
+---
 
-[![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=inadeemkhan&theme=default&show_icons=true)](https://github.com/inadeemkhan/github-readme-stats)
+### 📂 Featured Projects
+- 📦 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)**: Display shipping availability indicators.
+- 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)**: Attach files to transactional emails.
+- 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)**: Visual workflow management.
 
-[![Nadeem's github stats](https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan)](https://github.com/inadeemkhan/github-readme-stats)
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact)](https://github.com/inadeemkhan/github-readme-stats)--->
-<!---[![stats](https://metrics.lecoq.io/inadeemkhan)](https://metrics.lecoq.io/inadeemkhan)--->
+---
+
+### 📜 Certification
+**Adobe Certified Professional—Adobe Commerce Developer**
+
+<a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
+  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" width="120" title="Click to View Credly Badge" style="border-radius: 10px;" />
+</a>
+<img src="https://www.vectorlogo.zone/logos/adobe/adobe-ar21.svg" width="120" alt="Adobe Logo" />
+
+---
+
+### 📫 Connect with me
+<p align="left">
+<a href="https://www.linkedin.com/in/inadeemkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:khannadeem243@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/_inadeemkhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inadeemkhan&style=flat-square&color=blue" alt="Profile Views" />
+</p>
