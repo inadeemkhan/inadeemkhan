@@ -16,6 +16,15 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=visual_studio_code&column=7&margin-w=15&no-bg=true" alt="inadeemkhan trophies" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Activity & Skills Breakdown
 
 <p align="center">
