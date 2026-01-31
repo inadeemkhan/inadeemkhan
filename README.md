@@ -18,7 +18,7 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=visual_studio_code&column=7&margin-w=15&no-bg=true" alt="inadeemkhan trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=visual_studio_code&no-frame=true&no-bg=true&margin-w=15" alt="Nadeem Khan Trophies" />
 </p>
 
 ---
@@ -26,8 +26,8 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 ### 📊 GitHub Activity & Detailed Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
