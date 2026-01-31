@@ -18,7 +18,7 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=visual_studio_code&no-frame=true&no-bg=true&margin-w=15" alt="Nadeem Khan Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=inadeemkhan&theme=onedark&no-frame=false&margin-w=15" alt="Nadeem Khan Trophies" />
 </p>
 
 ---
@@ -26,12 +26,12 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 ### 📊 GitHub Activity & Detailed Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
+  <img width="98%" src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
 </p>
 
 ---
@@ -50,23 +50,6 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 - **Custom Development:** Module development, Payment Gateway integration, and Shipping API integration.
 - **Performance:** Speed optimization, database tuning, and One Step Checkout implementation.
 - **Storefront:** Custom theme development and Multi-store setup.
-
----
-
-**Languages & Tools I Use:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/adobe/adobe-icon.svg" title="Adobe" alt="Adobe" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
-</p>
 
 ---
 
