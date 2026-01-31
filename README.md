@@ -16,30 +16,37 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
-</p>
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
 | **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Cloud |
 | **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker |
-| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, LESS/CSS3 |
-| **Workflow** | Git, Bitbucket, GitHub Actions, Jira, Canva/Photoshop |
+| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3 |
+| **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva |
 
+<br/>
+
+**Languages & Tools I Use:**
 <p align="left">
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/magento-logo.png" width="45" title="Magento" />&nbsp;
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/php-logo.png" width="45" title="PHP" />&nbsp;
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/javascript-logo.png" width="45" title="JS" />&nbsp;
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/mysql-logo.png" width="45" title="MySQL" />&nbsp;
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/github-logo.png" width="45" title="GitHub" />&nbsp;
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/skills/photoshop-logo.png" width="45" title="Photoshop" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" title="Magento" alt="Magento" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
 </p>
 
 ---
