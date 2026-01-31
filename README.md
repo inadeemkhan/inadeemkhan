@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experience in building scalable e-commerce solutions. I specialize in turning complex business ideas into high-performance digital reality.
+I am a **Senior Adobe Commerce (Magento 2) Developer** with 6+ years of experience in building scalable e-commerce solutions. I specialize in turning complex business ideas into high-performance digital reality.
 
 - 🔭 **Currently optimizing:** [Magento 2 Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)
 - 🌱 **Learning:** Python, Machine Learning, and AI-driven E-commerce.
