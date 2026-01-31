@@ -16,25 +16,35 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Skills Breakdown
 
 <p align="center">
   <img width="48%" src="https://readme-stats-fast.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true" />
-  <img width="48%" src="https://readme-stats-fast.vercel.app/api/streak?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
+  <img width="48%" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="97%" src="https://readme-stats-fast.vercel.app/api/streak?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Specialized Expertise
 
 | Category | Technologies |
 | :--- | :--- |
 | **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Commerce Cloud |
-| **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker |
-| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3 |
-| **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva |
+| **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker, Alpine.js |
+| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3, LESS |
+| **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva, HeidiSQL |
 
-<br/>
+#### 🎯 My Magento Expertise:
+- **Migration & Upgrades:** 1.x to 2.x migration, security patch installation, and version upgrades.
+- **Custom Development:** Module development, Payment Gateway integration, and Shipping API integration.
+- **Performance:** Speed optimization, database tuning, and One Step Checkout implementation.
+- **Storefront:** Custom theme development and Multi-store setup.
+
+---
 
 **Languages & Tools I Use:**
 <p align="left">
@@ -50,6 +60,13 @@ I am a **Senior Adobe Commerce (Magento 2) Developer** with 4+ years of experien
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>
 </p>
+
+---
+
+### 📂 Featured Projects
+- 📦 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)**: A Magento 2 extension to display shipping availability indicators.
+- 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)**: Automatically attach PDF/Image files to transactional emails.
+- 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)**: Visual management of order workflows in the admin panel.
 
 ---
 
