@@ -32,8 +32,6 @@
 
 ---
 
----
-
 ### 🛠️ Tech Stack & Specialized Expertise
 
 | Category | Technologies |
@@ -51,8 +49,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Activity & Detailed Stats
 
 <p align="center">
@@ -66,20 +62,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=github_dark&no-frame=true&margin-w=10&title=Legendary,Gold,Platinum" alt="Trophies" />
-</p>
-
----
-
 ## 📂 Featured Projects
-
-| | | |
-|:---:|:---:|:---:|
-| 🚢 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)** | 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)** | 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)** |
-| Shipping availability indicators | Attach files to emails | Visual workflow management |
+- 📦 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)**: Display shipping availability indicators.
+- 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)**: Attach files to transactional emails.
+- 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)**: Visual workflow management.
 
 ---
 
