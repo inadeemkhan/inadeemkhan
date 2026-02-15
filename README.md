@@ -32,48 +32,36 @@
 
 ---
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+### 🛠️ Tech Stack & Specialized Expertise
 
-| **E-commerce** | **Backend** | **Frontend** | **Tools** |
-|:---:|:---:|:---:|:---:|
-| Magento 2 | PHP | JavaScript | Git |
-| Adobe Commerce | Python | jQuery | GitHub |
-| | MySQL | Knockout.js | Bitbucket |
-| | Redis | HTML5/CSS3 | Jira |
-| | Docker | LESS | Photoshop |
+| Category | Technologies |
+| :--- | :--- |
+| **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Commerce Cloud |
+| **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker, Alpine.js |
+| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3, LESS |
+| **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva, HeidiSQL |
 
-</div>
+#### 🎯 My Magento Expertise:
+- **Migration & Upgrades:** 1.x to 2.x migration, security patch installation, and version upgrades.
+- **Custom Development:** Module development, Payment Gateway integration, and Shipping API integration.
+- **Performance:** Speed optimization, database tuning, and One Step Checkout implementation.
+- **Storefront:** Custom theme development and Multi-store setup.
 
 ---
 
-## 🎯 Magento 2 Expertise
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  ✓  1.x → 2.x Migration & Security Patches                      ║
-║  ✓  Custom Module Development & Payment Gateway Integration      ║
-║  ✓  Performance Optimization & One Step Checkout                 ║
-║  ✓  Custom Theme Development & Multi-store Setup               ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Detailed Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=donut&theme=github_dark&hide_border=true&langs_count=6" height="160" alt="Languages" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=github-dark&hide_border=true" height="140" alt="Streak" />
+  <img width="98%" src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
 </p>
 
 ---
