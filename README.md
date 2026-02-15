@@ -14,22 +14,26 @@
 
 I am a **Senior Adobe Commerce (Magento 2) Developer** with 6+ years of experience in building scalable e-commerce solutions. I specialize in turning complex business ideas into high-performance digital reality.
 
-- 🔭 **Currently optimizing:** [Magento 2 Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)
-- 🌱 **Learning:** Python, Machine Learning, and AI-driven E-commerce
-- ⚡ **Key Strength:** Bridging the gap between robust backend logic and seamless frontend experience
+- 🔭 **Currently working on:** [Magento 2 Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)
+- 🌱 **Learning:** Python, Machine Learning & AI-driven E-commerce
+- ⚡ **Key Strength:** Bridging backend logic with seamless frontend experience
 - 🏋️ **Philosophy:** Consistent code, consistent workouts
 - 📍 **Location:** India
 
-```php
-class Developer {
-    public $name = "Nadeem Khan";
-    public $title = "Senior Adobe Commerce (Magento 2) Developer";
-    public $experience = "6+ years";
-    
-    public function currentFocus() {
-        return "Magento 2 Invoice Attachment Extension";
-    }
-}
+#### 🎯 My Magento 2 Expertise
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Migration_&_Upgrades-FF6B6B?style=flat&logo=migration" />
+  <img src="https://img.shields.io/badge/Custom_Module_Dev-4ECDC4?style=flat&logo=module" />
+  <img src="https://img.shields.io/badge/Performance_Optimization-45B7D1?style=flat&logo=speed" />
+  <img src="https://img.shields.io/badge/Payment_Gateway-96CEB4?style=flat&logo=payment" />
+</p>
+
+```
+✓ 1.x to 2.x Migration & Security Patches
+✓ Module Development & Payment Gateway Integration
+✓ Speed Optimization & One Step Checkout
+✓ Custom Theme Development & Multi-store Setup
 ```
 
 ---
@@ -37,7 +41,7 @@ class Developer {
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=inadeemkhan&theme=onedark&no-frame=false&margin-w=15&title=Legendary,Gold,Platinum" alt="Nadeem Khan Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -45,34 +49,29 @@ class Developer {
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=default&hide_border=true&bg_color=ffffff&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=default&hide_border=true&background=ffffff" width="98%" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
+<p align="left">
+
 | **E-commerce** | **Backend** | **Frontend** | **Tools** |
 |:---:|:---:|:---:|:---:|
-| Magento 2 | PHP (OOP/MVC) | JavaScript (ES6+) | Git |
-| Adobe Commerce | Python | jQuery | GitHub |
-| Commerce Cloud | MySQL | Ajax | Bitbucket |
-| | Redis | Knockout.js | Jira |
-| | Docker | HTML5/CSS3/LESS | Photoshop |
+| <img src="https://img.shields.io/badge/Magento_2-FF6B6B?style=flat" /> | <img src="https://img.shields.io/badge/PHP-777BB4?style=flat" /> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat" /> |
+| <img src="https://img.shields.io/badge/Adobe_Commerce-FF0000?style=flat" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat" /> | <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat" /> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat" /> |
+| | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat" /> | <img src="https://img.shields.io/badge/Knockout.js-3299C0?style=flat" /> | <img src="https://img.shields.io/badge/Jira-0052CC?style=flat" /> |
+| | <img src="https://img.shields.io/badge/Redis-DC382D?style=flat" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat" /> |
+| | | <img src="https://img.shields.io/badge/LESS-1D365D?style=flat" /> | |
 
-#### 🎯 Magento 2 Expertise
-
-```
-✓ Migration & Upgrades     →  1.x to 2.x, Security Patches, Version Upgrades
-✓ Custom Development      →  Modules, Payment Gateway, Shipping API
-✓ Performance             →  Speed Optimization, DB Tuning, One Step Checkout
-✓ Storefront              →  Custom Themes, Multi-store Setup
-```
+</p>
 
 ---
 
@@ -88,38 +87,25 @@ class Developer {
 
 ### 📜 Certification
 
-**Adobe Certified Professional — Adobe Commerce Developer**
+<p align="left">
 
-<a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
-  <img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" width="150" title="Click to View Credly Badge" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
-</a>
-<img src="https://www.vectorlogo.zone/logos/adobe/adobe-ar21.svg" width="120" alt="Adobe Logo" />
+| | |
+|:---:|:---:|
+| **Adobe Certified Professional — Adobe Commerce Developer** | <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e" target="_blank"><img src="https://img.shields.io/badge/View_Certification-0077B5?style=for-the-badge&logo=credly" /></a> |
+
+</p>
 
 ---
 
 ### 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/inadeemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:khannadeem243@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/_inadeemkhan" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<p align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <a href="https://www.linkedin.com/in/inadeemkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> | <a href="mailto:khannadeem243@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://www.instagram.com/_inadeemkhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> |
+
 </p>
-
----
-
-### ⚡ Fun Fact
-
-```
-🏋️ Code consistent, workouts consistent!
-☕ Coffee + Code = Better Solutions
-🚀 Always learning, always growing
-```
 
 ---
 
