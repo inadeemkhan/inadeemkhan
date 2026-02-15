@@ -32,47 +32,75 @@
 
 ---
 
-### 🛠️ Tech Stack & Specialized Expertise
+## 🛠️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Commerce Cloud |
-| **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker, Alpine.js |
-| **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3, LESS |
-| **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva, HeidiSQL |
+<div align="center">
 
-#### 🎯 My Magento Expertise:
-- **Migration & Upgrades:** 1.x to 2.x migration, security patch installation, and version upgrades.
-- **Custom Development:** Module development, Payment Gateway integration, and Shipping API integration.
-- **Performance:** Speed optimization, database tuning, and One Step Checkout implementation.
-- **Storefront:** Custom theme development and Multi-store setup.
+| **E-commerce** | **Backend** | **Frontend** | **Tools** |
+|:---:|:---:|:---:|:---:|
+| Magento 2 | PHP | JavaScript | Git |
+| Adobe Commerce | Python | jQuery | GitHub |
+| | MySQL | Knockout.js | Bitbucket |
+| | Redis | HTML5/CSS3 | Jira |
+| | Docker | LESS | Photoshop |
+
+</div>
 
 ---
 
-## 📊 GitHub Activity & Detailed Stats
+## 🎯 Magento 2 Expertise
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ✓  1.x → 2.x Migration & Security Patches                      ║
+║  ✓  Custom Module Development & Payment Gateway Integration       ║
+║  ✓  Performance Optimization & One Step Checkout                ║
+║  ✓  Custom Theme Development & Multi-store Setup                 ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=inadeemkhan&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inadeemkhan&layout=donut&theme=github_dark&hide_border=true&langs_count=6" height="160" alt="Languages" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=github-dark&hide_border=true" height="140" alt="Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=inadeemkhan&theme=github_dark&no-frame=true&margin-w=10&title=Legendary,Gold,Platinum" alt="Trophies" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
-- 📦 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)**: Display shipping availability indicators.
-- 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)**: Attach files to transactional emails.
-- 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)**: Visual workflow management.
+
+| | | |
+|:---:|:---:|:---:|
+| 🚢 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)** | 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)** | 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)** |
+| Shipping availability indicators | Attach files to emails | Visual workflow management |
 
 ---
 
 ## 📜 Certification
 
 <p align="center">
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3aa590eb-c8f5-4896-ba13-dc93c647963e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
+    <img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" width="200" alt="Adobe Certification" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.3);" />
+  </a>
   <br><br>
   <b>Adobe Certified Professional — Adobe Commerce Developer</b>
 </p>
