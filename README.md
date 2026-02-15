@@ -57,7 +57,7 @@
 ║  ✓  1.x → 2.x Migration & Security Patches                      ║
 ║  ✓  Custom Module Development & Payment Gateway Integration      ║
 ║  ✓  Performance Optimization & One Step Checkout                 ║
-║  ✓  Custom Theme Development & Multi-store Setup                 ║
+║  ✓  Custom Theme Development & Multi-store Setup               ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -124,7 +124,5 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting! 🙌</b>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=inadeemkhan&style=flat-square&color=2563EB" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks+for+visiting!&fontSize=30" alt="Footer" />
 </p>
