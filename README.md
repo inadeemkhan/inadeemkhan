@@ -72,7 +72,7 @@
 ## 📜 Certification
 
 <p align="center">
-  <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
+  <a href="[https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url](https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url)" target="_blank">
     <img src="https://github.com/inadeemkhan/magento2-images/blob/master/contact/certificate.png" width="200" alt="Adobe Certification" style="border-radius: 12px; box-shadow: 0 8px 25px rgba(0,0,0,0.3);" />
   </a>
   <br><br>
