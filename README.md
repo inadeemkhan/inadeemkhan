@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&color=2563EB&center=true&vCenter=true&width=380&lines=Hey+There!+👋;I'm+Nadeem+Khan" />
   </a>
@@ -71,7 +71,7 @@
 
 ## 📜 Certification
 
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
     <img width="10%" src="/badge-image/badge.png" /> 
   </a>
@@ -82,7 +82,7 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/inadeemkhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" />
   </a>
