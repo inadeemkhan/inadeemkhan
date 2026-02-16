@@ -56,7 +56,7 @@
   <img width="25%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
 </p>
 
-<p align="center">
+<p align="left">
   <img width="50%" src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
 </p>
 
@@ -73,7 +73,7 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
-    <img src="/badge-image/badge.png" />
+    <img width="25%" src="/badge-image/badge.png" />
   </a>
   <br><br>
   <b>Adobe Certified Professional — Adobe Commerce Developer</b>
