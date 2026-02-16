@@ -1,10 +1,10 @@
-<h1 align="center">
+<h1 align="left">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&color=2563EB&center=true&vCenter=true&width=380&lines=Hey+There!+👋;I'm+Nadeem+Khan" />
   </a>
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Certified-Professional-FF6B35?style=for-the-badge&logo=adobe&logoColor=white" />
   </a>
