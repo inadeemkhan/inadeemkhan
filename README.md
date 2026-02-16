@@ -51,13 +51,13 @@
 
 ## 📊 GitHub Activity & Detailed Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
+<p align="left">
+  <img width="25%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inadeemkhan&show_icons=true&theme=visual_studio_code&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="25%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inadeemkhan&layout=compact&theme=visual_studio_code&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
+  <img width="50%" src="https://streak-stats.demolab.com/?user=inadeemkhan&theme=visual_studio_code&hide_border=true" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 
 ## 📜 Certification
 
-<p align="center">
+<p align="left">
   <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
     <img src="/badge-image/badge.png" />
   </a>
@@ -83,7 +83,7 @@
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/inadeemkhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" />
   </a>
