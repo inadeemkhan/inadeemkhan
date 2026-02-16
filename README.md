@@ -75,7 +75,7 @@
   <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
     <img width="10%" src="/badge-image/badge.png" /> 
   </a>
-  <b>Adobe Certified Professional — Adobe Commerce Developer</b>
+  <br><b>Adobe Certified Professional — Adobe Commerce Developer</b>
 </p>
 
 ---
