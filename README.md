@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="left">
+<p align="center">
   <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/Adobe%20Certified-Professional-FF6B35?style=for-the-badge&logo=adobe&logoColor=white" />
   </a>
