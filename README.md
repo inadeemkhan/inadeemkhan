@@ -23,11 +23,11 @@
 </p>
 
 <p align="left">
-  🔭 &nbsp;Currently working on <a href="https://github.com/inadeemkhan/magento2-invoice-attachment"><b>Magento 2 Invoice Attachment</b></a><br>
-  🌱 &nbsp;Learning <b>Python, Machine Learning & AI-driven E-commerce</b><br>
+  🔭 &nbsp;🌱 Continuously expanding my expertise into Python, Machine Learning, and the transformative potential of AI-driven E-commerce.<br>
+  🌱 &nbsp;⚡ Committed to building resilient systems that stand the test of time, ensuring both stability and an exceptional user journey.<br>
   ⚡ &nbsp;Building robust backend logic with seamless frontend experiences<br>
-  🏋️ &nbsp;Consistent code, consistent workouts<br>
-  📍 &nbsp;Based in <b>India</b>
+  🏋️ &nbsp;🏋️ Believing in the power of consistency, whether it's in clean code or a challenging workout.<br>
+  📍 &nbsp;📍 Proudly contributing to the tech landscape from India.
 </p>
 
 ---
