@@ -56,24 +56,6 @@
 
 ---
 
-## 📂 Featured Projects
-- 📦 **[Ship Indicator](https://github.com/inadeemkhan/magento2-shipindicator)**: Display shipping availability indicators.
-- 📄 **[Invoice Attachment](https://github.com/inadeemkhan/magento2-invoice-attachment)**: Attach files to transactional emails.
-- 🎨 **[Order Status Color](https://github.com/inadeemkhan/magento2-order-status-color)**: Visual workflow management.
-
----
-
-## 📜 Certification
-
-<p align="center">
-  <a href="https://www.credly.com/badges/3aa590eb-c8f5-4896-ba13-dc93c647963e/public_url" target="_blank">
-    <img width="10%" src="/badge-image/badge.png" /> 
-  </a>
-  <br><b>Adobe Certified Professional — Adobe Commerce Developer</b>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
