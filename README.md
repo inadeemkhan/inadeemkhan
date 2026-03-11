@@ -36,7 +36,7 @@
 | Category | Technologies |
 | :--- | :--- |
 | **E-commerce** | Magento 2 (Open Source & Commerce), Adobe Commerce Cloud |
-| **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker, Alpine.js |
+| **Backend** | PHP (OOP/MVC), Python, MySQL, Redis, Docker |
 | **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3, LESS |
 | **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva, HeidiSQL |
 
