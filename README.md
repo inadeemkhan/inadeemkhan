@@ -41,12 +41,6 @@
 | **Frontend** | JavaScript (ES6+), jQuery, Ajax, Knockout.js, HTML5, CSS3, LESS |
 | **Workflow** | Git, GitHub, Bitbucket, Jira, Photoshop, Canva, HeidiSQL |
 
-#### 🎯 My Magento Expertise:
-- **Migration & Upgrades:** 1.x to 2.x migration, security patch installation, and version upgrades.
-- **Custom Development:** Module development, Payment Gateway integration, and Shipping API integration.
-- **Performance:** Speed optimization, database tuning, and One Step Checkout implementation.
-- **Storefront:** Custom theme development and Multi-store setup.
-
 ---
 
 ## 📊 GitHub Activity & Detailed Stats
