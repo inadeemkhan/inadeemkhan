@@ -23,11 +23,10 @@
 </p>
 
 <p align="left">
-  🔭 &nbsp;🌱 Continuously expanding my expertise into Python, Machine Learning, and the transformative potential of AI-driven E-commerce.<br>
-  🌱 &nbsp;⚡ Committed to building resilient systems that stand the test of time, ensuring both stability and an exceptional user journey.<br>
-  ⚡ &nbsp;Building robust backend logic with seamless frontend experiences<br>
-  🏋️ &nbsp;🏋️ Believing in the power of consistency, whether it's in clean code or a challenging workout.<br>
-  📍 &nbsp;📍 Proudly contributing to the tech landscape from India.
+  🌱 Continuously expanding my expertise into Python, Machine Learning, and the transformative potential of AI-driven E-commerce.<br>
+  ⚡ Committed to building resilient systems that stand the test of time, ensuring both stability and an exceptional user journey.<br>
+  🏋️ Believing in the power of consistency, whether it's in clean code or a challenging workout.<br>
+  📍 Proudly contributing to the tech landscape from India.
 </p>
 
 ---
